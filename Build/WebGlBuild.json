@@ -1,7 +1,7 @@
 {
 "companyName": "KUUSOO.ink",
-"productName": "BabyZigZag",
-"productVersion": "1.0",
+"productName": "ZigZag Master",
+"productVersion": "0.1.1",
 "dataUrl": "WebGlBuild.data.unityweb",
 "wasmCodeUrl": "WebGlBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGlBuild.wasm.framework.unityweb",
@@ -11,5 +11,5 @@
 "backgroundColor": "#231F20",
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.7f1"
+"unityVersion": "2019.2.21f1"
 }
